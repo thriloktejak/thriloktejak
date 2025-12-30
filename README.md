@@ -1,5 +1,5 @@
 # About Me:
-👋 Hi, I’m Thrilok teja<br>👀 I’m Full-Stack Developer<br>🌱 I’m currently working in atyatechnologies as Back-end Developer<br>💞️ I’m looking to collaborate on python<br>📫 reach me thrilokteja28@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Python's name is inspired by Monty Python, not the snake!
+👋 Hi, I’m Thrilok teja<br>👀 I’m Full-Stack Developer<br>🌱 I’m currently working in atyatechnologies as Back-end Developer<br>💞️ I’m looking to collaborate on python<br>📫 reach me thrilokteja01@gmail.com<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Python's name is inspired by Monty Python, not the snake!
 
 
 # 💻 Tech Stack:
